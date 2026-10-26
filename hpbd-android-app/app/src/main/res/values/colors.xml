@@ -1,0 +1,17 @@
+<resources>
+    <color name="primary">#B91C1C</color>
+    <color name="primary_dark">#991B1B</color>
+    <color name="primary_light">#EF4444</color>
+    <color name="background_light">#F8FAFC</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="text_main">#0F172A</color>
+    <color name="text_muted">#64748B</color>
+    <color name="border_light">#E2E8F0</color>
+    <color name="status_pending">#F59E0B</color>
+    <color name="status_processing">#3B82F6</color>
+    <color name="status_completed">#10B981</color>
+    <color name="status_cancelled">#EF4444</color>
+    <color name="badge_engraving">#7C3AED</color>
+    <color name="badge_embroidery">#DB2777</color>
+    <color name="badge_nameplate">#D97706</color>
+</resources>

@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">এইচপিবিডি অপারেশনস</string>
+    <string name="tagline">হেলথ পয়েন্ট বিডি অপারেশনস পোর্টাল</string>
+
+    <!-- Auth -->
+    <string name="login_title">স্টাফ লগইন</string>
+    <string name="login_subtitle">আপনার ওয়ার্ডপ্রেস ইউজার অ্যাকাউন্ট এবং ডেডিকেটেড অ্যাপ্লিকেশন পাসওয়ার্ড দিয়ে লগইন করুন।</string>
+    <string name="label_site_url">ওয়ার্ডপ্রেস HTTPS ইউআরএল</string>
+    <string name="hint_site_url">https://healthpointbd.com/</string>
+    <string name="label_username">ওয়ার্ডপ্রেস ইউজারনেম</string>
+    <string name="label_app_password">অ্যাপ্লিকেশন পাসওয়ার্ড</string>
+    <string name="hint_app_password">xxxx xxxx xxxx xxxx</string>
+    <string name="btn_login">অপারেশনসে প্রবেশ করুন</string>
+    <string name="btn_logging_in">তথ্য যাচাই করা হচ্ছে…</string>
+    <string name="security_note">কখনও মূল অ্যাডমিন পাসওয়ার্ড ব্যবহার করবেন না। Users → Profile থেকে Application Password তৈরি করুন।</string>
+    <string name="err_https_required">সাইট URL অবশ্যই https:// দিয়ে শুরু হতে হবে</string>
+    <string name="err_empty_fields">সকল তথ্য পূরণ করা আবশ্যক।</string>
+
+    <!-- Navigation & Titles -->
+    <string name="nav_dashboard">ড্যাশবোর্ড</string>
+    <string name="nav_orders">অর্ডার তালিকা</string>
+    <string name="nav_create_order">নতুন অর্ডার</string>
+    <string name="nav_browser">ওয়েব পোর্টাল</string>
+    <string name="nav_reports">রিপোর্ট</string>
+    <string name="nav_profile">প্রোফাইল</string>
+    <string name="nav_settings">সেটিংস</string>
+    <string name="title_create_order">নতুন অর্ডার তৈরি করুন</string>
+    <string name="title_order_details">অর্ডারের বিস্তারিত</string>
+    <string name="title_activity">কার্যক্রমের ইতিহাস</string>
+
+    <!-- Dashboard -->
+    <string name="stat_today">আজকের অর্ডার</string>
+    <string name="stat_pending">পেন্ডিং</string>
+    <string name="stat_processing">প্রসেসিং</string>
+    <string name="stat_completed">কমপ্লিট</string>
+    <string name="stat_cancelled">বাতিল</string>
+    <string name="stat_on_hold">অন-হোল্ড</string>
+    <string name="quick_actions">দ্রুত অ্যাকশন</string>
+    <string name="recent_orders">সাম্প্রতিক অর্ডার</string>
+    <string name="view_all">সবগুলো দেখুন</string>
+
+    <!-- Orders -->
+    <string name="search_hint">অর্ডার নং, কাস্টমারের নাম, ফোন, খোদাই নাম…</string>
+    <string name="filter_all">সব অর্ডার</string>
+    <string name="badge_customized">কাস্টমাইজড</string>
+    <string name="badge_engraving">খোদাই নাম</string>
+    <string name="badge_embroidery">এমব্রয়ডারি</string>
+    <string name="badge_nameplate">নেমপ্লেট</string>
+    <string name="order_items_heading">পণ্য ও কাস্টমাইজেশন বিবরণ</string>
+    <string name="customer_info_heading">গ্রাহকের তথ্য ও ঠিকানা</string>
+    <string name="order_summary_heading">পেমেন্ট ও ডেলিভারি বিবরণ</string>
+    <string name="activity_history_heading">অডিট ও অ্যাক্টিভিটি হিস্ট্রি</string>
+
+    <!-- Status Update -->
+    <string name="btn_update_status">অর্ডার স্ট্যাটাস পরিবর্তন</string>
+    <string name="dialog_update_status_title">স্ট্যাটাস পরিবর্তনের নিশ্চয়তা</string>
+    <string name="dialog_update_status_msg">আপনি কি নিশ্চিত যে অর্ডার #%1$s এর স্ট্যাটাস %2$s থেকে %3$s তে পরিবর্তন করতে চান?</string>
+    <string name="optional_note_label">অভ্যন্তরীণ অডিট নোট (ঐচ্ছিক)</string>
+    <string name="btn_confirm">নিশ্চিত করুন ও সেভ করুন</string>
+    <string name="btn_cancel">বাতিল</string>
+
+    <!-- Settings & Profile -->
+    <string name="settings_language">ভাষা পরিবর্তন (English / বাংলা)</string>
+    <string name="settings_current_site">সংযুক্ত ওয়েবসাইট</string>
+    <string name="settings_role">রোল ও পারমিশন</string>
+    <string name="btn_logout">নিরাপদে লগআউট করুন</string>
+    <string name="dialog_logout_title">সাইন আউট</string>
+    <string name="dialog_logout_msg">ডিভাইস থেকে সংরক্ষিত সকল ক্রেডেনশিয়াল মুছে ফেলা হবে।</string>
+
+    <!-- Common -->
+    <string name="btn_retry">পুনরায় চেষ্টা করুন</string>
+    <string name="empty_orders">কোনো অর্ডার পাওয়া যায়নি।</string>
+    <string name="loading">সার্ভার থেকে তথ্য লোড হচ্ছে…</string>
+</resources>

@@ -1,0 +1,7 @@
+package com.healthpointbd.operations.data.remote
+
+sealed class Resource<out T> {
+    data class Success<out T>(val data: T) : Resource<T>()
+    data class Error(val message: String, val statusCode: Int? = null) : Resource<Nothing>()
+    data object Loading : Resource<Nothing>()
+}

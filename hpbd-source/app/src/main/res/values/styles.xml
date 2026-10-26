@@ -1,0 +1,1 @@
+<resources><style name="Theme.HPBD" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#B91C1C</item><item name="android:windowLightStatusBar">true</item><item name="android:statusBarColor">#FFFFFF</item><item name="android:navigationBarColor">#FFFFFF</item></style></resources>

@@ -1,0 +1,6 @@
+{
+  "name": "HPBD Operations - Native Android & WordPress Bridge Suite",
+  "description": "Production-oriented native Android app source, WordPress WooCommerce API bridge, bilingual operations dashboard, and interactive device simulator for Health Point BD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

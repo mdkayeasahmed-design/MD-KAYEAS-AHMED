@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">HPBD Operations</string>
+    <string name="tagline">Health Point BD Operations Suite</string>
+
+    <!-- Auth -->
+    <string name="login_title">Staff Authentication</string>
+    <string name="login_subtitle">Sign in with your WordPress user account and dedicated Application Password.</string>
+    <string name="label_site_url">WordPress HTTPS URL</string>
+    <string name="hint_site_url">https://healthpointbd.com/</string>
+    <string name="label_username">WordPress Username</string>
+    <string name="label_app_password">Application Password</string>
+    <string name="hint_app_password">xxxx xxxx xxxx xxxx</string>
+    <string name="btn_login">Sign In to Operations</string>
+    <string name="btn_logging_in">Verifying Credentials…</string>
+    <string name="security_note">Never use your main WordPress admin password. Generate an Application Password under Users → Profile.</string>
+    <string name="err_https_required">Site URL must begin with https://</string>
+    <string name="err_empty_fields">All login fields are required.</string>
+
+    <!-- Navigation & Titles -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_orders">Orders</string>
+    <string name="nav_create_order">New Order</string>
+    <string name="nav_browser">Web Portal</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+    <string name="title_create_order">Create New Order</string>
+    <string name="title_order_details">Order Details</string>
+    <string name="title_activity">Activity History</string>
+
+    <!-- Dashboard -->
+    <string name="stat_today">Today\'s Orders</string>
+    <string name="stat_pending">Pending</string>
+    <string name="stat_processing">Processing</string>
+    <string name="stat_completed">Completed</string>
+    <string name="stat_cancelled">Cancelled</string>
+    <string name="stat_on_hold">On Hold</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="recent_orders">Recent Orders</string>
+    <string name="view_all">View All</string>
+
+    <!-- Orders -->
+    <string name="search_hint">Order #, Customer name, Phone, Engraving…</string>
+    <string name="filter_all">All</string>
+    <string name="badge_customized">Customized</string>
+    <string name="badge_engraving">Engraving</string>
+    <string name="badge_embroidery">Embroidery</string>
+    <string name="badge_nameplate">Nameplate</string>
+    <string name="order_items_heading">Products &amp; Customization</string>
+    <string name="customer_info_heading">Customer Information</string>
+    <string name="order_summary_heading">Financial &amp; Delivery</string>
+    <string name="activity_history_heading">Audit &amp; Activity Log</string>
+
+    <!-- Status Update -->
+    <string name="btn_update_status">Update Order Status</string>
+    <string name="dialog_update_status_title">Confirm Status Change</string>
+    <string name="dialog_update_status_msg">Are you sure you want to change order #%1$s from %2$s to %3$s?</string>
+    <string name="optional_note_label">Internal audit note (optional)</string>
+    <string name="btn_confirm">Confirm &amp; Update</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <!-- Settings & Profile -->
+    <string name="settings_language">Language / ভাষা</string>
+    <string name="settings_current_site">Connected Site</string>
+    <string name="settings_role">Role &amp; Capabilities</string>
+    <string name="btn_logout">Log Out Securely</string>
+    <string name="dialog_logout_title">Sign Out</string>
+    <string name="dialog_logout_msg">This will wipe securely stored credentials from this device.</string>
+
+    <!-- Common -->
+    <string name="btn_retry">Try Again</string>
+    <string name="empty_orders">No orders found matching your criteria.</string>
+    <string name="loading">Loading data from server…</string>
+</resources>
